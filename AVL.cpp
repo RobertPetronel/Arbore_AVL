@@ -1,5 +1,7 @@
 #include <iostream>
 #include <fstream>
+
+// cod scris de mine acum 2 ani:
 #define Max(a, b) ((a<b) ? (b) : (a))
 template<class T>
 class AVL
